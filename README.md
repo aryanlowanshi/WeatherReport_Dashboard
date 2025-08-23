@@ -16,3 +16,6 @@ Track real-time weather conditions, air quality index (AQI), wind, humidity, tem
 🌐 Clean UX with Glassmorphism Design (Modern UI Look)
 🕹️ Easy Filters for City, Country, Weather Type & More
 📊 Powered by WeatherAPI & Dynamic M Query Integration
+
+ dashboard looks like - 
+![Dashboard Preview](https://github.com/aryanlowanshi/WeatherReport_Dashboard/blob/main/Screenshot%202025-08-14%20203150.png)
